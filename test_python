@@ -1,1 +1,2 @@
-echo "Hello"
+x = ("apple", "banana", "cherry")
+print(x)
